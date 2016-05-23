@@ -1,3 +1,3 @@
 # gtiskills
-create a new branch is quick and simple & easy default
+create a new branch is quick and simple
 
